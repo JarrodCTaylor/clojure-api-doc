@@ -4,3 +4,4 @@ analysis.edn
 /repo/
 /repo-docs/
 .java-version
+.nvimlog
